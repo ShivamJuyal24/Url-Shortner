@@ -65,8 +65,10 @@ bash
 npm run dev
 
 ```
+## 🖼️ Screenshots
 
-📸 Screenshots:
+![Desktop View](./Screenshot 2025-07-23 212152.png)
+![Mobile View](./Screenshot 2025-07-23 212152.png)
 
 
 👤 Author
