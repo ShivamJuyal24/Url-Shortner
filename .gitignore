@@ -1,0 +1,44 @@
+# === Node dependencies ===
+node_modules/
+**/node_modules/
+
+# === PnP (Yarn Plug'n'Play) ===
+.pnp/
+.pnp.js
+
+# === Build output ===
+build/
+dist/
+**/build/
+**/dist/
+
+# === Testing ===
+coverage/
+**/coverage/
+
+# === Environment variables ===
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# === Logs ===
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# === System files ===
+.DS_Store
+
+# === IDEs & editors ===
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*.bak
+
+# === Misc ===
+*.log
+*.tgz
